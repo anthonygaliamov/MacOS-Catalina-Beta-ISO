@@ -1,8 +1,8 @@
-# Create a MacOS Catalina Beta ISO
+# Create a MacOS Catalina ISO
 
 #### Introduction
 
-Create an ISO of MacOS Catalina Beta which can then be used to create a VM using VMware Fusion for Mac.
+Create an ISO of MacOS Catalina which can then be used to create a VM using VMware Fusion for Mac.
 
 #### Create the ISO Image
 
@@ -10,7 +10,7 @@ Create an ISO of MacOS Catalina Beta which can then be used to create a VM using
 2. Open the Terminal at that folder and run the below command.
 
 ```bash
-$ ./MacOS-Catalina-Beta-ISO.sh
+$ ./MacOS-Catalina-ISO.sh
 ```
 
 3. To view the .iso file, run the following command.
